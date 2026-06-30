@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.base44.com/images/public/69d928863a855fa37dbd21ba/a625e9ab2_generated_image.png" alt="5DV — Fifth Dimension" width="100%" />
+<img src="https://base44.app/api/apps/69d928863a855fa37dbd21ba/files/mp/public/69d928863a855fa37dbd21ba/37a541916_hero_5dv.png" alt="5DV — Fifth Dimension" width="100%" />
 
 # 5DV · The Fifth Dimension
 
@@ -11,8 +11,8 @@ propagates and a soul that never does.
 
 <br/>
 
-[![Studio](https://img.shields.io/badge/5dv.ca-the_studio-22D3EE?style=for-the-badge&labelColor=0a0a0a)](https://5dv.ca)
-[![Lab](https://img.shields.io/badge/5dv.ai-the_lab-9F7AEA?style=for-the-badge&labelColor=0a0a0a)](https://5dv.ai)
+[![Studio](https://img.shields.io/badge/5dv.ca-the_studio-F5A623?style=for-the-badge&labelColor=0a0a0a)](https://5dv.ca)
+[![Lab](https://img.shields.io/badge/5dv.ai-the_lab-1B3A5B?style=for-the-badge&labelColor=0a0a0a)](https://5dv.ai)
 ![Aesthetic](https://img.shields.io/badge/aesthetic-haunted_atompunk-8a7a5a?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
@@ -83,6 +83,8 @@ between tasks. The face is catching up to the mind.
 ---
 
 <div align="center">
+
+<img src="https://base44.app/api/apps/69d928863a855fa37dbd21ba/files/mp/public/69d928863a855fa37dbd21ba/6713f5bed_logo_4.png" alt="5DV" width="90" />
 
 ### *Built in the Fifth Dimension — where the machines remember.*
 
