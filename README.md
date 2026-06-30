@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://base44.app/api/apps/69d928863a855fa37dbd21ba/files/mp/public/69d928863a855fa37dbd21ba/ee47b000f_gh_banner_wide.png" alt="5DV — Fifth Dimension" width="100%" />
+<img src="https://base44.app/api/apps/69d928863a855fa37dbd21ba/files/mp/public/69d928863a855fa37dbd21ba/63255c554_gh_banner_wide2.png" alt="5DV — Fifth Dimension" width="100%" />
 
 # 5DV · The Fifth Dimension
 
